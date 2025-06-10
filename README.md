@@ -1,4 +1,4 @@
-# 🎬 YouTube Downloader Pro
+# 🎬 YouTube-Video-Audio Downloader Pro
 
 A modern, user-friendly desktop application for downloading YouTube videos and audio with a sleek dark-themed interface.
 
