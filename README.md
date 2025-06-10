@@ -62,7 +62,7 @@ yt-dlp>=2023.1.6
 
 1. **Run the Application**
    ```bash
-   python youtube_downloader.py
+   python Youtube.py
    ```
 
 2. **Enter YouTube URL**
