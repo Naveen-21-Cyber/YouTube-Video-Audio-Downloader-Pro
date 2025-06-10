@@ -19,6 +19,8 @@ A modern, user-friendly desktop application for downloading YouTube videos and a
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/bc7c2d86-ca4f-4040-8c25-153a9723f5ee)
+
 ### Main Interface
 The application features a clean, modern interface with organized sections for URL input, download path selection, and quality options.
 
