@@ -82,8 +82,8 @@ yt-dlp>=2023.1.6
 
 ### Built With
 
-- **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)**: Modern UI framework for Python
-- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**: Robust YouTube downloader library
+- **[CustomTkinter] : (https://github.com/TomSchimansky/CustomTkinter)**: Modern UI framework for Python
+- **[yt-dlp] : (https://github.com/yt-dlp/yt-dlp)**: Robust YouTube downloader library
 - **Threading**: Non-blocking UI during downloads
 - **tkinter**: Base GUI framework
 
@@ -100,7 +100,7 @@ yt-dlp>=2023.1.6
 ```
 youtube-downloader-pro/
 │
-├── youtube_downloader.py    # Main application file
+├── Youtube.py    # Main application file
 ├── requirements.txt         # Python dependencies
 ├── README.md               # This file
 └── screenshots/            # Application screenshots (optional)
